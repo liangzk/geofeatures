@@ -1,7 +1,7 @@
 {
   "features": [
-    "River": "River Description", 
-    "Mountain": "Mountain Description",
+    { "name": "River", "description": "River Description"}, 
+    { "name": "Mountain", "description": "Mountain Description"},
   ],
   "locations": [
     { 
