@@ -1,20 +1,6 @@
 {
-  "features": [
+  [
     { "name": "River", "description": "River Description"}, 
     { "name": "Mountain", "description": "Mountain Description"}
-  ],
-  "locations": [
-    { 
-      "Name": "Shanghai Port",
-      "Description": "Information of Shanghai Port",
-      "Latitude": 123,
-      "Longitude": 90 
-    }, 
-    { 
-      "Name": "Singapore Port",
-      "Description": "Information of Singapore Port",
-      "Latitude": 1,
-      "Longitude": 103
-    }
   ]
 }
