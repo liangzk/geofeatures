@@ -1,7 +1,7 @@
 {
   "features": [
     { "name": "River", "description": "River Description"}, 
-    { "name": "Mountain", "description": "Mountain Description"},
+    { "name": "Mountain", "description": "Mountain Description"}
   ],
   "locations": [
     { 
@@ -15,6 +15,6 @@
       "Description": "Information of Singapore Port",
       "Latitude": 1,
       "Longitude": 103, 
-    }, 
-  ],
+    }
+  ]
 }
